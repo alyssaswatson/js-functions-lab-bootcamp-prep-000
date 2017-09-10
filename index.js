@@ -1,7 +1,5 @@
-// write your code below!
-function happyHolidays(string) {
-  return ('Happy holidays!')
-}
-function happyHolidayto(name) {
-  console.log('Hello, ${name}')
-}
+var word
+word = 'bird'
+console.log(word)
+word = 'dog'
+console.log (word)
